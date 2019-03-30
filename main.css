@@ -77,6 +77,10 @@ tr,th{
 #imgrf:hover{
 	display: block;
 	position: absolute;
+	top: 130px;
+	right: 5px;
 	width: 500px;
 	height: 500px;
+	
+
 }
